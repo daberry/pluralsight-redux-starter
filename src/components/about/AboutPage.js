@@ -2,12 +2,12 @@ import React from 'react';
 
 class AboutPage extends React.Component {
   render() {
-    return (`
+    return (
       <div>
         <h1>About</h1>
         <p>RThis application uses React, Redux, React Router and a variety of other helpful libraries</p>
       </div>
-    `);
+    );
   }
 }
 
